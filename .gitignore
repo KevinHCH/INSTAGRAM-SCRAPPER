@@ -1,0 +1,5 @@
+.vscode/
+*.json
+*.env
+data/
+test.*
