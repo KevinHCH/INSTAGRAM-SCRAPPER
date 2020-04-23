@@ -8,7 +8,7 @@
 - pipenv (module)
 ### Deploy
 - Execute the `deploy.sh` script
-- *Complete the `.env` file with your credentials(user, password)*
+- **Complete the `.env` file with your credentials(user, password)**
 - If you have problems to execute the script, try to modify the `DRIVER_PATH` and the `BRAVE_BROWSER_PATH` 
 
 ### Execute
