@@ -1,6 +1,6 @@
--i https://pypi.org/simple
+-i https://pypi.org/simple/
 numpy==1.18.3
 pymongo==3.10.1
 python-dotenv==0.13.0
 selenium==3.141.0
-urllib3==1.25.9
+urllib3==1.26.5
